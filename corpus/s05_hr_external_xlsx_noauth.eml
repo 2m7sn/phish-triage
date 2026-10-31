@@ -1,0 +1,31 @@
+Return-Path: <hr@corp-hr.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK028; Fri, 23 Oct 2026 21:14:02
+ +0300
+Received: from mail.corp-hr.example (mail.corp-hr.example [203.0.113.211]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB028 for <m.alharbi@corp.example>;
+ Fri, 23 Oct 2026 21:14:00 +0300
+From: HR Department <hr@corp-hr.example>
+To: m.alharbi@corp.example
+Subject: Salary review - confirm your details
+Date: Fri, 23 Oct 2026 21:14:00 +0300
+Message-ID: <s05_hr_external_xlsx_noauth.028@corp-hr.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7423612131982104595=="
+
+--===============7423612131982104595==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Please open the attached sheet and confirm your details.
+
+--===============7423612131982104595==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Salary_Review.xlsx"
+MIME-Version: 1.0
+
+UEsDBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAA==
+
+--===============7423612131982104595==--

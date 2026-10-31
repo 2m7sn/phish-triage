@@ -1,0 +1,52 @@
+Return-Path: <accounts@najdtech-solutions.example>
+Received: from mail.najdtech-solutions.example
+ (mail.najdtech-solutions.example [198.51.100.77]) by mx1.corp.example
+ (Postfix) with ESMTPS id R2; Fri, 30 Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=najdtech-solutions.example; dkim=pass
+ header.d=najdtech-solutions.example; dmarc=pass (p=quarantine)
+ header.from=najdtech-solutions.example
+From: "Accounts Receivable | Najd Tech Solutions"
+ <accounts@najdtech-solutions.example>
+To: ap@corp.example
+Subject: Invoice INV-2291 for PO 7731 (network switches)
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID:
+ <179339087614.19452.1315262791512945639@mail.najdtech-solutions.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5491885850964725269=="
+
+--===============5491885850964725269==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Accounts Payable team,
+
+Please find attached invoice INV-2291 (SAR 48,300.00 incl. 15% VAT) for the 1=
+2 access switches delivered under PO 7731 on 27 Oct 2026, signed delivery not=
+e attached inside the PDF.
+
+Terms: net 30, due 29 Nov 2026. Bank details are unchanged from our registere=
+d vendor profile; please do not act on any email asking you to change them.
+
+You can also download the invoice from our portal: https://portal.najdtech-so=
+lutions.example/invoices/INV-2291
+
+Regards,
+Noura Alshehri
+Accounts Receivable, Najd Tech Solutions
+CR 1010778812 | VAT 300412345600003
++966 11 455 0100
+
+--===============5491885850964725269==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="INV-2291.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+ZW5kb2JqCjIgMCBv
+Ymo8PC9UeXBlL1BhZ2VzL0tpZHNbMyAwIFJdL0NvdW50IDE+PmVuZG9iagozIDAgb2JqPDwvVHlw
+ZS9QYWdlL1BhcmVudCAyIDAgUi9NZWRpYUJveFswIDAgNTk1IDg0Ml0+PmVuZG9iagp0cmFpbGVy
+PDwvUm9vdCAxIDAgUj4+CiUlRU9GCg==
+
+--===============5491885850964725269==--

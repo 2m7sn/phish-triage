@@ -1,0 +1,40 @@
+Return-Path: <noreply@stc-billing.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK011; Wed, 21 Oct 2026 18:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=stc-billing.example; dkim=pass header.d=stc-billing.example;
+ dmarc=pass header.from=stc-billing.example
+Received-SPF: Pass (mx1.corp.example: domain of noreply@stc-billing.example
+ designates 203.0.113.90 as permitted sender) client-ip=203.0.113.90;
+Received: from mail.stc-billing.example (mail.stc-billing.example
+ [203.0.113.90]) by mx1.corp.example (Postfix) with ESMTP id 3AB011 for
+ <m.alharbi@corp.example>; Wed, 21 Oct 2026 18:14:00 +0300
+From: stc <noreply@stc-billing.example>
+To: m.alharbi@corp.example
+Subject: Your stc bill is overdue / =?utf-8?b?2YHYp9iq2YjYsdiq2YMg2YXYqtij?=
+ =?utf-8?b?2K7Ysdip?=
+Date: Wed, 21 Oct 2026 18:14:00 +0300
+Message-ID: <m11_stc_userinfo_url.011@stc-billing.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2915879310623637986=="
+
+--===============2915879310623637986==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your outstanding bill of SAR 189 is overdue. Pay now to avoid suspension of y=
+our line.
+https://stc.com.sa@203.0.113.5/pay
+
+--===============2915879310623637986==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Your outstanding bill of SAR 189 is overdue. Pay now to avoid =
+suspension of your line.</p><p><a href=3D"https://stc.com.sa@203.0.113.5/pay"=
+>Pay bill</a></p></body></html>
+
+--===============2915879310623637986==--

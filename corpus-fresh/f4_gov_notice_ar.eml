@@ -1,0 +1,20 @@
+Return-Path: <noreply@sdaia.gov.sa>
+Received: from mail.sdaia.gov.sa (mail.sdaia.gov.sa [198.51.100.5]) by
+ mx1.corp.example (Postfix) with ESMTPS id ABC; Thu, 29 Oct 2026 10:00:00
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=sdaia.gov.sa;
+ dkim=pass header.d=sdaia.gov.sa; dmarc=pass header.from=sdaia.gov.sa
+From: =?utf-8?b?2KrZiNmD2YTZhtin?= <noreply@sdaia.gov.sa>
+To: user@corp.example
+Subject: =?utf-8?b?2KrZhSDYqtit2K/ZitirINit2KfZhNiq2YMg2KfZhNi12K3ZitipINmB?=
+ =?utf-8?b?2Yog2KrZiNmD2YTZhtin?=
+Message-ID: <twk-77@mail.sdaia.gov.sa>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2LnYstmK2LLZiiDYp9mE2YXYs9iq2YHZitiv2Iwg2KrZhSDYqtit2K/ZitirINit2KfZhNiq2YMg
+2KfZhNi12K3ZitipLiDZhNmE2KfYt9mE2KfYuSDYudmE2Ykg2KfZhNiq2YHYp9i12YrZhCDYp9iv
+2K7ZhCDYudmE2Ykg2KrYt9io2YrZgiDYqtmI2YPZhNmG2Kcg2KPZiCBodHRwczovL3RhLnNkYWlh
+Lmdvdi5zYQrZhNinINiq2LHYryDYudmE2Ykg2YfYsNmHINin2YTYsdiz2KfZhNipLgo=

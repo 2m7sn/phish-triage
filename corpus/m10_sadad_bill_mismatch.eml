@@ -1,0 +1,41 @@
+Return-Path: <billing@sadad-pay.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK010; Wed, 21 Oct 2026 15:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail
+ smtp.mailfrom=sadad-pay.example; dkim=pass header.d=sadad-pay.example;
+ dmarc=fail header.from=sadad-pay.example
+Received-SPF: Fail (mx1.corp.example: domain of billing@sadad-pay.example does
+ not designate 198.51.100.41 as permitted sender) client-ip=198.51.100.41;
+Received: from mail.sadad-pay.example (mail.sadad-pay.example [198.51.100.41])
+ by mx1.corp.example (Postfix) with ESMTP id 3AB010 for
+ <m.alharbi@corp.example>; Wed, 21 Oct 2026 15:14:00 +0300
+From: SADAD | =?utf-8?b?2LPYr9in2K8=?= <billing@sadad-pay.example>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2YHYp9iq2YjYsdipINmF2LPYqtit2YLYqSAtINiz2YrYqtmFINil2Yo=?=
+ =?utf-8?b?2YLYp9mBINin2YTYrtiv2YXYqQ==?=
+Date: Wed, 21 Oct 2026 15:14:00 +0300
+Message-ID: <m10_sadad_bill_mismatch.010@sadad-pay.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4037755746770121686=="
+
+--===============4037755746770121686==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2YTYr9mK2YMg2YHYp9iq2YjYsdipINmF2LPYqtit2YLYqSDYqNmC2YrZhdipIDMxMi41MCDYsdmK
+2KfZhC4g2LPYr9in2K8g2KfZhNmF2KjZhNi6INmF2LfZhNmI2Kgg2K7ZhNin2YQgMjQg2LPYp9i5
+2KkuCmh0dHBzOi8vcGF5LXNhZGFkLW5vdy5leGFtcGxlL2JpbGwK
+
+--===============4037755746770121686==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+PHAgZGlyPXJ0bD7ZhNiv2YrZgyDZgdin2KrZiNix2Kkg2YXYs9iq2K3Zgtip
+INio2YLZitmF2KkgMzEyLjUwINix2YrYp9mELiDYs9iv2KfYryDYp9mE2YXYqNmE2Log2YXYt9mE
+2YjYqCDYrtmE2KfZhCAyNCDYs9in2LnYqS48L3A+PHA+PGEgaHJlZj0iaHR0cHM6Ly9wYXktc2Fk
+YWQtbm93LmV4YW1wbGUvYmlsbCI+c2FkYWQuY29tPC9hPjwvcD48L2JvZHk+PC9odG1sPgo=
+
+--===============4037755746770121686==--

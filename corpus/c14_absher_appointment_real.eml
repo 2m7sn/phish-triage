@@ -1,0 +1,23 @@
+Return-Path: <noreply@absher.sa>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK043; Sun, 25 Oct 2026 18:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=absher.sa;
+ dkim=pass header.d=absher.sa; dmarc=pass header.from=absher.sa
+Received-SPF: Pass (mx1.corp.example: domain of noreply@absher.sa designates
+ 203.0.113.14 as permitted sender) client-ip=203.0.113.14;
+Received: from mail.absher.sa (mail.absher.sa [203.0.113.14]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB043 for <m.alharbi@corp.example>;
+ Sun, 25 Oct 2026 18:14:00 +0300
+From: Absher <noreply@absher.sa>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2KrYo9mD2YrYryDZhdmI2LnYr9mD?=
+Date: Sun, 25 Oct 2026 18:14:00 +0300
+Message-ID: <c14_absher_appointment_real.043@absher.sa>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2KrZhSDYqtij2YPZitivINmF2YjYudiv2YMg2YHZiiDYp9mE2KPYrdmI2KfZhCDYp9mE2YXYr9mG
+2YrYqSDZitmI2YUg2KfZhNij2LHYqNi52KfYoSDYp9mE2LPYp9i52KkgMTA6MzAg2LXYqNin2K3Y
+p9mLLiDZitix2KzZiSDYpdit2LbYp9ixINin2YTZh9mI2YrYqS4K

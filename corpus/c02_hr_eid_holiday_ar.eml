@@ -1,0 +1,25 @@
+Return-Path: <hr@corp.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK031; Sat, 24 Oct 2026 06:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=corp.example;
+ dkim=pass header.d=corp.example; dmarc=pass header.from=corp.example
+Received-SPF: Pass (mx1.corp.example: domain of hr@corp.example designates
+ 192.0.2.25 as permitted sender) client-ip=192.0.2.25;
+Received: from smtp-out.corp.example (smtp-out.corp.example [192.0.2.25]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB031 for <m.alharbi@corp.example>;
+ Sat, 24 Oct 2026 06:14:00 +0300
+From: =?utf-8?b?2KfZhNmF2YjYp9ix2K8g2KfZhNio2LTYsdmK2Kk=?= <hr@corp.example>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2KzYr9mI2YQg2KXYrNin2LLYqSDYp9mE2YrZiNmFINin2YTZiNi32YY=?=
+ =?utf-8?q?=D9=8A?=
+Date: Sat, 24 Oct 2026 06:14:00 +0300
+Message-ID: <c02_hr_eid_holiday_ar.031@corp.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2LLZhdmE2KfYodmG2Kcg2KfZhNij2LnYstin2KHYjArYqtio2K/YoyDYpdis2KfYstipINin2YTZ
+itmI2YUg2KfZhNmI2LfZhtmKINmK2YjZhSDYp9mE2KvZhNin2KvYp9ihINmI2KrZhtiq2YfZiiDY
+p9mE2K7ZhdmK2LMuINin2YTYudmI2K/YqSDZhNmE2LnZhdmEINin2YTYo9it2K8uCtin2YTZhdmI
+2KfYsdivINin2YTYqNi02LHZitipCg==

@@ -1,0 +1,38 @@
+Return-Path:
+ <bounces+123456-abcd-user=corp.example@em9876.riyadh-bakery.example>
+Received: from o1.ptr9876.riyadh-bakery.example
+ (o1.ptr9876.riyadh-bakery.example [198.51.100.77]) by mx1.corp.example
+ (Postfix) with ESMTPS id ABC; Thu, 29 Oct 2026 10:00:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=em9876.riyadh-bakery.example; dkim=pass header.d=sendgrid.net
+ header.i=@sendgrid.net; dkim=pass header.d=riyadh-bakery.example; dmarc=pass
+ header.from=riyadh-bakery.example
+From: Riyadh Bakery <news@riyadh-bakery.example>
+To: user@corp.example
+Subject: New: cardamom croissants this weekend
+List-Unsubscribe: <https://u9876.ct.sendgrid.net/wf/unsubscribe?upn=xyz>
+Message-ID: <abc.filter001@mail.sendgrid.net>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0639166609398241308=="
+
+--===============0639166609398241308==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Cardamom croissants land this Friday. Order ahead: https://u9876.ct.sendgrid.=
+net/ls/click?upn=3DAAAA
+
+--===============0639166609398241308==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Cardamom croissants land this Friday.</p><p><a href=3D"https:/=
+/u9876.ct.sendgrid.net/ls/click?upn=3DAAAA">Order ahead</a> =C2=B7 <a href=3D=
+"https://u9876.ct.sendgrid.net/ls/click?upn=3DBBBB">riyadh-bakery.example</a>=
+</p><p><a href=3D"https://u9876.ct.sendgrid.net/wf/unsubscribe?upn=3Dxyz">Uns=
+ubscribe</a></p></body></html>
+
+--===============0639166609398241308==--

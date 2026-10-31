@@ -1,0 +1,50 @@
+Return-Path: <dse@docusign-secure.example>
+Received: from mail.docusign-secure.example (mail.docusign-secure.example
+ [203.0.113.88]) by mx1.corp.example (Postfix) with ESMTPS id R2; Fri, 30 Oct
+ 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=docusign-secure.example; dkim=pass
+ header.d=docusign-secure.example; dmarc=none
+ header.from=docusign-secure.example
+From: "DocuSign" <dse@docusign-secure.example>
+To: m.alharbi@corp.example
+Subject: Completed: Please DocuSign: Contract_Amendment_2026.pdf
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID:
+ <179339087615.19452.18411157915810132023@mail.docusign-secure.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0922305567560981635=="
+
+--===============0922305567560981635==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Finance Department sent you a document to review and sign.
+
+REVIEW DOCUMENT
+https://docusign-secure.example/Signing/EmailStart.aspx?a=3D9f2c&er=3D4a7b
+
+Do Not Share This Email
+This email contains a secure link to DocuSign. Please do not share this email=
+, link, or access code with others.
+
+About DocuSign
+Sign documents electronically in just minutes.
+
+--===============0922305567560981635==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Helvetica"><table width=3D"600"><tr><td styl=
+e=3D"background:#1e1e1e;color:#fff;padding:20px">DocuSign</td></tr><tr><td st=
+yle=3D"padding:30px"><p>Finance Department sent you a document to review and =
+sign.</p><p><a href=3D"https://docusign-secure.example/Signing/EmailStart.asp=
+x?a=3D9f2c&amp;er=3D4a7b" style=3D"background:#ffbe00;padding:12px 24px;color=
+:#000">REVIEW DOCUMENT</a></p><p style=3D"font-size:11px;color:#666"><b>Do No=
+t Share This Email</b><br>This email contains a secure link to DocuSign. Plea=
+se do not share this email, link, or access code with others.</p></td></tr></=
+table></body></html>
+
+--===============0922305567560981635==--

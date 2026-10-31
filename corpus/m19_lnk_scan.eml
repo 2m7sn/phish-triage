@@ -1,0 +1,35 @@
+Return-Path: <scanner@corp.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK019; Thu, 22 Oct 2026 18:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail smtp.mailfrom=corp.example;
+ dkim=fail header.d=corp.example; dmarc=fail header.from=corp.example
+Received-SPF: Fail (mx1.corp.example: domain of scanner@corp.example does not
+ designate 198.51.100.80 as permitted sender) client-ip=198.51.100.80;
+Received: from unknown (unknown [198.51.100.80]) by mx1.corp.example (Postfix)
+ with ESMTP id 3AB019 for <m.alharbi@corp.example>; Thu, 22 Oct 2026 18:14:00
+ +0300
+From: Xerox Scanner <scanner@corp.example>
+To: m.alharbi@corp.example
+Subject: Scanned document from MFP-3F
+Date: Thu, 22 Oct 2026 18:14:00 +0300
+Message-ID: <m19_lnk_scan.019@corp.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9217291396341592355=="
+
+--===============9217291396341592355==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Scanned from Xerox MFP-3F. Pages: 2.
+
+--===============9217291396341592355==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Scan_0021.pdf.lnk"
+MIME-Version: 1.0
+
+TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAA=
+
+--===============9217291396341592355==--

@@ -1,0 +1,23 @@
+Return-Path: <hello@riyadhtech.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK024; Fri, 23 Oct 2026 09:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail
+ smtp.mailfrom=riyadhtech.example; dkim=pass header.d=riyadhtech.example;
+ dmarc=fail header.from=riyadhtech.example
+Received-SPF: Fail (mx1.corp.example: domain of hello@riyadhtech.example does
+ not designate 203.0.113.200 as permitted sender) client-ip=203.0.113.200;
+Received: from lists.forwarder.example (lists.forwarder.example
+ [203.0.113.200]) by mx1.corp.example (Postfix) with ESMTP id 3AB024 for
+ <m.alharbi@corp.example>; Fri, 23 Oct 2026 09:14:00 +0300
+From: Riyadh Tech Meetup <hello@riyadhtech.example>
+To: m.alharbi@corp.example
+Subject: November meetup: agenda
+Date: Fri, 23 Oct 2026 09:14:00 +0300
+Message-ID: <s01_forwarded_newsletter_spf_fail.024@riyadhtech.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Agenda for the November meetup is online: https://riyadhtech.example/nov
+See you there.

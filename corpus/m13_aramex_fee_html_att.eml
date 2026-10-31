@@ -1,0 +1,37 @@
+Return-Path: <delivery@aramex-ksa.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK013; Thu, 22 Oct 2026 00:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=aramex-ksa.example; dkim=pass header.d=aramex-ksa.example;
+ dmarc=none header.from=aramex-ksa.example
+Received-SPF: Pass (mx1.corp.example: domain of delivery@aramex-ksa.example
+ designates 198.51.100.55 as permitted sender) client-ip=198.51.100.55;
+Received: from mail.aramex-ksa.example (mail.aramex-ksa.example
+ [198.51.100.55]) by mx1.corp.example (Postfix) with ESMTP id 3AB013 for
+ <m.alharbi@corp.example>; Thu, 22 Oct 2026 00:14:00 +0300
+From: Aramex <delivery@aramex-ksa.example>
+To: m.alharbi@corp.example
+Subject: Aramex: customs fee required to release your parcel
+Date: Thu, 22 Oct 2026 00:14:00 +0300
+Message-ID: <m13_aramex_fee_html_att.013@aramex-ksa.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0320356636050171790=="
+
+--===============0320356636050171790==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A customs fee of SAR 27 is pending. Open the attached invoice to pay and rele=
+ase your parcel.
+
+--===============0320356636050171790==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Customs_Invoice.htm"
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+PHNjcmlwdD4vKiBoYXJtbGVzcyBwbGFjZWhvbGRlciAqLzwvc2NyaXB0Pjwv
+Ym9keT48L2h0bWw+
+
+--===============0320356636050171790==--

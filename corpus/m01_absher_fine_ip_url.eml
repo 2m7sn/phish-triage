@@ -1,0 +1,45 @@
+Return-Path: <no-reply@absher-notify.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK001; Tue, 20 Oct 2026 12:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail
+ smtp.mailfrom=absher-notify.example; dkim=pass
+ header.d=absher-notify.example; dmarc=fail header.from=absher-notify.example
+Received-SPF: Fail (mx1.corp.example: domain of no-reply@absher-notify.example
+ does not designate 203.0.113.44 as permitted sender) client-ip=203.0.113.44;
+Received: from mail.absher-notify.example (mail.absher-notify.example
+ [203.0.113.44]) by mx1.corp.example (Postfix) with ESMTP id 3AB001 for
+ <m.alharbi@corp.example>; Tue, 20 Oct 2026 12:14:00 +0300
+From: Absher | =?utf-8?b?2KPYqNi02LE=?= <no-reply@absher-notify.example>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2KrZhtio2YrZhzog2YXYrtin2YTZgdipINmF2LHZiNix2YrYqSDYutmK?=
+ =?utf-8?b?2LEg2YXYs9iv2K/YqQ==?=
+Date: Tue, 20 Oct 2026 12:14:00 +0300
+Message-ID: <m01_absher_fine_ip_url.001@absher-notify.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0601258366302694501=="
+
+--===============0601258366302694501==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2LnYstmK2LLZiiDYp9mE2YXYs9iq2YHZitiv2IwK2YTYr9mK2YMg2YXYrtin2YTZgdipINmF2LHZ
+iNix2YrYqSDYutmK2LEg2YXYs9iv2K/YqSDYqNmC2YrZhdipIDUwMCDYsdmK2KfZhC4g2YrYrNio
+INiz2K/Yp9ivINin2YTZhdio2YTYuiDYrtmE2KfZhCAyNCDYs9in2LnYqSDZiNil2YTYpyDYs9mK
+2KrZhSDYpdmK2YLYp9mBINin2YTYrtiv2YXYp9iqLgrZhNmE2LPYr9in2K86IGh0dHA6Ly8yMDMu
+MC4xMTMuMTAvYWJzaGVyL2xvZ2luCg==
+
+--===============0601258366302694501==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+PHAgZGlyPXJ0bD7Yudiy2YrYstmKINin2YTZhdiz2KrZgdmK2K/YjDxicj7Z
+hNiv2YrZgyDZhdiu2KfZhNmB2Kkg2YXYsdmI2LHZitipINi62YrYsSDZhdiz2K/Yr9ipINio2YLZ
+itmF2KkgNTAwINix2YrYp9mELiDZitis2Kgg2LPYr9in2K8g2KfZhNmF2KjZhNi6INiu2YTYp9mE
+IDI0INiz2KfYudipINmI2KXZhNinINiz2YrYqtmFINil2YrZgtin2YEg2KfZhNiu2K/Zhdin2Kou
+PC9wPjxwPjxhIGhyZWY9Imh0dHA6Ly8yMDMuMC4xMTMuMTAvYWJzaGVyL2xvZ2luIj5hYnNoZXIu
+c2E8L2E+PC9wPjwvYm9keT48L2h0bWw+Cg==
+
+--===============0601258366302694501==--

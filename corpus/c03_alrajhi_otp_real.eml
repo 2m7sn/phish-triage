@@ -1,0 +1,24 @@
+Return-Path: <noreply@alrajhibank.com.sa>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK032; Sat, 24 Oct 2026 09:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=alrajhibank.com.sa; dkim=pass header.d=alrajhibank.com.sa;
+ dmarc=pass header.from=alrajhibank.com.sa
+Received-SPF: Pass (mx1.corp.example: domain of noreply@alrajhibank.com.sa
+ designates 203.0.113.5 as permitted sender) client-ip=203.0.113.5;
+Received: from mail.alrajhibank.com.sa (mail.alrajhibank.com.sa [203.0.113.5])
+ by mx1.corp.example (Postfix) with ESMTP id 3AB032 for
+ <m.alharbi@corp.example>; Sat, 24 Oct 2026 09:14:00 +0300
+From: Al Rajhi Bank <noreply@alrajhibank.com.sa>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2LHZhdiyINin2YTYqtit2YLZgg==?=
+Date: Sat, 24 Oct 2026 09:14:00 +0300
+Message-ID: <c03_alrajhi_otp_real.032@alrajhibank.com.sa>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2LHZhdiyINin2YTYqtit2YLZgiDYp9mE2K7Yp9i1INio2YMg2YfZiCA0ODIxMzMuINmE2Kcg2KrY
+tNin2LHZg9mHINmF2Lkg2KPYrdivLiDYp9mE2KjZhtmDINmE2Kcg2YrYt9mE2Kgg2KfZhNix2YXY
+siDZh9in2KrZgdmK2KfZiy4K

@@ -1,0 +1,43 @@
+Return-Path: <accounts@gulf-office-supplies.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK016; Thu, 22 Oct 2026 09:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=gulf-office-supplies.example; dkim=pass
+ header.d=gulf-office-supplies.example; dmarc=pass
+ header.from=gulf-office-supplies.example
+Received-SPF: Pass (mx1.corp.example: domain of
+ accounts@gulf-office-supplies.example designates 203.0.113.130 as permitted
+ sender) client-ip=203.0.113.130;
+Received: from mail.gulf-office-supplies.example
+ (mail.gulf-office-supplies.example [203.0.113.130]) by mx1.corp.example
+ (Postfix) with ESMTP id 3AB016 for <m.alharbi@corp.example>; Thu, 22 Oct 2026
+ 09:14:00 +0300
+From: Accounts - Gulf Office Supplies <accounts@gulf-office-supplies.example>
+To: m.alharbi@corp.example
+Subject: Shared invoice INV-2291 for your review
+Date: Thu, 22 Oct 2026 09:14:00 +0300
+Message-ID: <m16_compromised_partner.016@gulf-office-supplies.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7291482849741576292=="
+
+--===============7291482849741576292==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+Please sign in to verify your identity and view the shared invoice.
+https://login.corp.example.docs-share.example/
+Regards, Accounts
+
+--===============7291482849741576292==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Hello,<br>Please sign in to verify your identity and view the =
+shared invoice.</p><p><a href=3D"https://login.corp.example.docs-share.exampl=
+e/">View shared invoice</a></p></body></html>
+
+--===============7291482849741576292==--

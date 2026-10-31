@@ -1,0 +1,25 @@
+Return-Path: <admissions@uni.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK044; Sun, 25 Oct 2026 21:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=uni.example;
+ dkim=pass header.d=uni.example; dmarc=pass header.from=uni.example
+Received-SPF: Pass (mx1.corp.example: domain of admissions@uni.example
+ designates 203.0.113.15 as permitted sender) client-ip=203.0.113.15;
+Received: from mail.uni.example (mail.uni.example [203.0.113.15]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB044 for <m.alharbi@corp.example>;
+ Sun, 25 Oct 2026 21:14:00 +0300
+From: =?utf-8?b?2LnZhdin2K/YqSDYp9mE2YLYqNmI2YQg2YjYp9mE2KrYs9is2YrZhA==?=
+ <admissions@uni.example>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2LnYp9is2YQ6INiq2LnYr9mK2YQg2YXZiNi52K8g2KfZhNin2K7Yqtio?=
+ =?utf-8?b?2KfYsdin2Kog2KfZhNmG2YfYp9im2YrYqQ==?=
+Date: Sun, 25 Oct 2026 21:14:00 +0300
+Message-ID: <c15_university_notice_ar.044@uni.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2KrZhSDYqti52K/ZitmEINmF2YjYudivINin2YTYp9iu2KrYqNin2LHYp9iqINin2YTZhtmH2KfY
+ptmK2Kkg2YTZitio2K/YoyDZitmI2YUgMTUg2K/Zitiz2YXYqNixLiDYp9mE2KzYr9mI2YQg2KfZ
+hNmF2K3Yr9irINi52YTZiSDYp9mE2KjZiNin2KjYqSDYp9mE2KPZg9in2K/ZitmF2YrYqS4K

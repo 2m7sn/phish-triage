@@ -1,0 +1,38 @@
+Return-Path: <refund@gov-refunds.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK023; Fri, 23 Oct 2026 06:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=softfail
+ smtp.mailfrom=gov-refunds.example; dkim=pass header.d=gov-refunds.example;
+ dmarc=none header.from=gov-refunds.example
+Received-SPF: Softfail (mx1.corp.example: domain of refund@gov-refunds.example
+ does not designate 203.0.113.160 as permitted sender)
+ client-ip=203.0.113.160;
+Received: from mail.gov-refunds.example (mail.gov-refunds.example
+ [203.0.113.160]) by mx1.corp.example (Postfix) with ESMTP id 3AB023 for
+ <m.alharbi@corp.example>; Fri, 23 Oct 2026 06:14:00 +0300
+From: Tax Refund Office <refund@gov-refunds.example>
+To: m.alharbi@corp.example
+Subject: You are eligible for a tax refund of SAR 1,240
+Date: Fri, 23 Oct 2026 06:14:00 +0300
+Message-ID: <m23_tax_refund_lure.023@gov-refunds.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1192259654273222406=="
+
+--===============1192259654273222406==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Claim your refund within 48 hours. Confirm your identity at https://gov-refun=
+ds.example/claim
+
+--===============1192259654273222406==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Claim your refund within 48 hours.</p><p><a href=3D"https://go=
+v-refunds.example/claim">Confirm your identity</a></p></body></html>
+
+--===============1192259654273222406==--

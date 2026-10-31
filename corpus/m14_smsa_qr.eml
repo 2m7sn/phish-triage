@@ -1,0 +1,44 @@
+Return-Path: <notify@smsa-express.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK014; Thu, 22 Oct 2026 03:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=softfail
+ smtp.mailfrom=smsa-express.example; dkim=pass header.d=smsa-express.example;
+ dmarc=fail header.from=smsa-express.example
+Received-SPF: Softfail (mx1.corp.example: domain of
+ notify@smsa-express.example does not designate 198.51.100.56 as permitted
+ sender) client-ip=198.51.100.56;
+Received: from mail.smsa-express.example (mail.smsa-express.example
+ [198.51.100.56]) by mx1.corp.example (Postfix) with ESMTP id 3AB014 for
+ <m.alharbi@corp.example>; Thu, 22 Oct 2026 03:14:00 +0300
+From: SMSA Express <notify@smsa-express.example>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2LTYrdmG2KkgU01TQTog2LHYs9mI2YUg2KzZhdix2YPZitipINmF2LM=?=
+ =?utf-8?b?2KrYrdmC2Kk=?=
+Date: Thu, 22 Oct 2026 03:14:00 +0300
+Message-ID: <m14_smsa_qr.014@smsa-express.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3601471332238007184=="
+
+--===============3601471332238007184==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2KfZhdiz2K0g2LHZhdiyIFFSINin2YTZhdix2YHZgiDZhNiv2YHYuSDYp9mE2LHYs9mI2YUg2KfZ
+hNis2YXYsdmD2YrYqSAoMjIg2LHZitin2YQpINiu2YTYp9mEIDI0INiz2KfYudip2Iwg2YjYpdmE
+2Kcg2LPYqti52KfYryDYp9mE2LTYrdmG2KkuCmh0dHBzOi8vc21zYS1leHByZXNzLmV4YW1wbGUv
+cXIK
+
+--===============3601471332238007184==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+PHAgZGlyPXJ0bD7Yp9mF2LPYrSDYsdmF2LIgUVIg2KfZhNmF2LHZgdmCINmE
+2K/Zgdi5INin2YTYsdiz2YjZhSDYp9mE2KzZhdix2YPZitipICgyMiDYsdmK2KfZhCkg2K7ZhNin
+2YQgMjQg2LPYp9i52KnYjCDZiNil2YTYpyDYs9iq2LnYp9ivINin2YTYtNit2YbYqS48L3A+PHA+
+PGEgaHJlZj0iaHR0cHM6Ly9zbXNhLWV4cHJlc3MuZXhhbXBsZS9xciI+2LnYsdi2INin2YTYsdmF
+2LI8L2E+PC9wPjwvYm9keT48L2h0bWw+Cg==
+
+--===============3601471332238007184==--

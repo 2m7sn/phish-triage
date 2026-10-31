@@ -1,0 +1,36 @@
+Return-Path: <b-77@bounce.mailsender.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK037; Sun, 25 Oct 2026 00:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=bounce.mailsender.example; dkim=pass
+ header.d=gulfretail.example; dmarc=pass header.from=gulfretail.example
+Received-SPF: Pass (mx1.corp.example: domain of b-77@bounce.mailsender.example
+ designates 203.0.113.9 as permitted sender) client-ip=203.0.113.9;
+Received: from o1.mailsender.example (o1.mailsender.example [203.0.113.9]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB037 for <m.alharbi@corp.example>;
+ Sun, 25 Oct 2026 00:14:00 +0300
+From: Gulf Retail Weekly <weekly@gulfretail.example>
+To: m.alharbi@corp.example
+Subject: Q3 retail report is out
+Date: Sun, 25 Oct 2026 00:14:00 +0300
+Message-ID: <c08_newsletter_tracking_redirect.037@gulfretail.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3079112590041727739=="
+
+--===============3079112590041727739==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Read the Q3 report: https://click.mailsender.example/c/789
+
+--===============3079112590041727739==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Read the Q3 report:</p><p><a href=3D"https://click.mailsender.=
+example/c/789">gulfretail.example/q3-report</a></p></body></html>
+
+--===============3079112590041727739==--

@@ -1,0 +1,25 @@
+Return-Path: <b-123@bounce.mailsender.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK036; Sat, 24 Oct 2026 21:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=bounce.mailsender.example; dkim=pass
+ header.d=riyadhstartups.example; dmarc=pass
+ header.from=riyadhstartups.example
+Received-SPF: Pass (mx1.corp.example: domain of
+ b-123@bounce.mailsender.example designates 203.0.113.9 as permitted sender)
+ client-ip=203.0.113.9;
+Received: from o1.mailsender.example (o1.mailsender.example [203.0.113.9]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB036 for <m.alharbi@corp.example>;
+ Sat, 24 Oct 2026 21:14:00 +0300
+From: Riyadh Startups Digest <digest@riyadhstartups.example>
+To: m.alharbi@corp.example
+Subject: Digest: 5 funding rounds this week
+Date: Sat, 24 Oct 2026 21:14:00 +0300
+Message-ID: <c07_newsletter_esp_returnpath.036@riyadhstartups.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Five rounds announced this week. Full list: https://riyadhstartups.example/di=
+gest/44

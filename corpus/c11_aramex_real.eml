@@ -1,0 +1,22 @@
+Return-Path: <notify@aramex.com>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK040; Sun, 25 Oct 2026 09:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=aramex.com;
+ dkim=pass header.d=aramex.com; dmarc=pass header.from=aramex.com
+Received-SPF: Pass (mx1.corp.example: domain of notify@aramex.com designates
+ 203.0.113.11 as permitted sender) client-ip=203.0.113.11;
+Received: from mail.aramex.com (mail.aramex.com [203.0.113.11]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB040 for <m.alharbi@corp.example>;
+ Sun, 25 Oct 2026 09:14:00 +0300
+From: Aramex <notify@aramex.com>
+To: m.alharbi@corp.example
+Subject: Shipment 4420098 delivered
+Date: Sun, 25 Oct 2026 09:14:00 +0300
+Message-ID: <c11_aramex_real.040@aramex.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Your shipment 4420098 was delivered today. Delivery fee was prepaid by the se=
+nder.

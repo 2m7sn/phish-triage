@@ -1,0 +1,11 @@
+file,label
+h01_gcal_invite.eml,clean
+h02_docusign_real.eml,clean
+h03_absher_otp_sms_gateway.eml,clean
+h04_vendor_invoice_pdf_new_domain.eml,clean
+h05_github_notification.eml,clean
+h06_docusign_lookalike.eml,malicious
+h07_oauth_consent_phish.eml,malicious
+h08_spl_fee_shortener_ar.eml,malicious
+h09_invoice_pdf_html_att.eml,malicious
+h10_vendor_bec_iban_change.eml,malicious

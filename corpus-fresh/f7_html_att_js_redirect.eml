@@ -1,0 +1,33 @@
+Return-Path: <voicemail@pbx-cloudnotify.example>
+Received: from mail.pbx-cloudnotify.example (mail.pbx-cloudnotify.example
+ [198.51.100.210]) by mx1.corp.example (Postfix) with ESMTPS id ABC; Thu, 29
+ Oct 2026 10:00:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=pbx-cloudnotify.example; dkim=pass
+ header.d=pbx-cloudnotify.example; dmarc=pass
+ header.from=pbx-cloudnotify.example
+From: Voicemail Service <voicemail@pbx-cloudnotify.example>
+To: m.alharbi@corp.example
+Subject: New voicemail (00:42) from +966 5x xxx xx12
+Message-ID: <vm@pbx-cloudnotify.example>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8301083009621826823=="
+
+--===============8301083009621826823==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You received a new voicemail. Open the attached file to listen.
+
+--===============8301083009621826823==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Voicemail_0392.html"
+MIME-Version: 1.0
+
+PGh0bWw+PHNjcmlwdD53aW5kb3cubG9jYXRpb249Imh0dHBzOi8vMTk4LjUxLjEwMC4yMTEvbzM2
+NS9sb2dpbi5waHA/dT1iUzVoYkdoaGNtSnBRR052Y25BdVpYaGhiWEJzWlE9PSI7PC9zY3JpcHQ+
+PC9odG1sPg==
+
+--===============8301083009621826823==--

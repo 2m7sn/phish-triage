@@ -1,0 +1,36 @@
+Return-Path: <alnoor.trading.invoices@yahoo.com>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK026; Fri, 23 Oct 2026 15:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=yahoo.com;
+ dkim=pass header.d=yahoo.com; dmarc=pass header.from=yahoo.com
+Received-SPF: Pass (mx1.corp.example: domain of
+ alnoor.trading.invoices@yahoo.com designates 198.51.100.111 as permitted
+ sender) client-ip=198.51.100.111;
+Received: from sonic.example (sonic.example [198.51.100.111]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB026 for <m.alharbi@corp.example>;
+ Fri, 23 Oct 2026 15:14:00 +0300
+From: Ahmed - Al Noor Trading <alnoor.trading.invoices@yahoo.com>
+To: m.alharbi@corp.example
+Subject: Invoice 4471 - pending payment
+Date: Fri, 23 Oct 2026 15:14:00 +0300
+Message-ID: <s03_vendor_invoice_freemail.026@yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0619354553664178653=="
+
+--===============0619354553664178653==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear sir, please find attached invoice 4471, pending payment since last month.
+Ahmed
+
+--===============0619354553664178653==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_4471.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBkdW1teQolJUVPRgo=
+
+--===============0619354553664178653==--

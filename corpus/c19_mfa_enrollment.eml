@@ -1,0 +1,36 @@
+Return-Path: <identity@corp.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK048; Mon, 26 Oct 2026 09:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=corp.example;
+ dkim=pass header.d=corp.example; dmarc=pass header.from=corp.example
+Received-SPF: Pass (mx1.corp.example: domain of identity@corp.example
+ designates 192.0.2.25 as permitted sender) client-ip=192.0.2.25;
+Received: from smtp-out.corp.example (smtp-out.corp.example [192.0.2.25]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB048 for <m.alharbi@corp.example>;
+ Mon, 26 Oct 2026 09:14:00 +0300
+From: Corp Identity <identity@corp.example>
+To: m.alharbi@corp.example
+Subject: Enrol your second factor by 30 November
+Date: Mon, 26 Oct 2026 09:14:00 +0300
+Message-ID: <c19_mfa_enrollment.048@corp.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1875324662209510812=="
+
+--===============1875324662209510812==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Enrol your authenticator app before 30 November: https://id.corp.example/enrol
+Identity team
+
+--===============1875324662209510812==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Enrol your authenticator app before 30 November.</p><p><a href=
+=3D"https://id.corp.example/enrol">id.corp.example/enrol</a></p></body></html>
+
+--===============1875324662209510812==--

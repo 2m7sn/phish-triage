@@ -1,0 +1,38 @@
+Return-Path: <noreply@gitforge.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK046; Mon, 26 Oct 2026 03:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=gitforge.example; dkim=pass header.d=gitforge.example;
+ dmarc=pass header.from=gitforge.example
+Received-SPF: Pass (mx1.corp.example: domain of noreply@gitforge.example
+ designates 203.0.113.17 as permitted sender) client-ip=203.0.113.17;
+Received: from mail.gitforge.example (mail.gitforge.example [203.0.113.17]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB046 for <m.alharbi@corp.example>;
+ Mon, 26 Oct 2026 03:14:00 +0300
+From: GitForge <notifications@gitforge.example>
+To: m.alharbi@corp.example
+Subject: [corp/detections] PR #88: add DMARC fail rule
+Date: Mon, 26 Oct 2026 03:14:00 +0300
+Message-ID: <c17_gitforge_notification.046@gitforge.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3754948546513855141=="
+
+--===============3754948546513855141==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+New pull request: add DMARC fail rule.
+https://gitforge.example/corp/detections/pull/88
+
+--===============3754948546513855141==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>New pull request: add DMARC fail rule.</p><p><a href=3D"https:=
+//gitforge.example/corp/detections/pull/88">View pull request</a></p></body><=
+/html>
+
+--===============3754948546513855141==--

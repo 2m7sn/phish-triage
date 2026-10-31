@@ -1,0 +1,38 @@
+Return-Path: <f.alotaibi.docs@hotmail.com>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK017; Thu, 22 Oct 2026 12:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=hotmail.com;
+ dkim=pass header.d=hotmail.com; dmarc=pass header.from=hotmail.com
+Received-SPF: Pass (mx1.corp.example: domain of f.alotaibi.docs@hotmail.com
+ designates 198.51.100.70 as permitted sender) client-ip=198.51.100.70;
+Received: from mail-oln.example (mail-oln.example [198.51.100.70]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB017 for <m.alharbi@corp.example>;
+ Thu, 22 Oct 2026 12:14:00 +0300
+From: Fatimah Al-Otaibi <f.alotaibi.docs@hotmail.com>
+To: m.alharbi@corp.example
+Reply-To: fatimah.docs.reply@gmail.com
+Subject: Contract for review before Thursday
+Date: Thu, 22 Oct 2026 12:14:00 +0300
+Message-ID: <m17_onenote_att.017@hotmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1640681216538914942=="
+
+--===============1640681216538914942==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+Attached is the contract we discussed. Please review before the meeting.
+Fatimah
+
+--===============1640681216538914942==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Contract_Review.one"
+MIME-Version: 1.0
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAA==
+
+--===============1640681216538914942==--

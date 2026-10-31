@@ -1,0 +1,37 @@
+Return-Path: <recruit.gulf.talent@gmail.com>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK025; Fri, 23 Oct 2026 12:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=gmail.com;
+ dkim=pass header.d=gmail.com; dmarc=pass header.from=gmail.com
+Received-SPF: Pass (mx1.corp.example: domain of recruit.gulf.talent@gmail.com
+ designates 198.51.100.110 as permitted sender) client-ip=198.51.100.110;
+Received: from mail-sor-f41.example (mail-sor-f41.example [198.51.100.110]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB025 for <m.alharbi@corp.example>;
+ Fri, 23 Oct 2026 12:14:00 +0300
+From: Talent Team <recruit.gulf.talent@gmail.com>
+To: m.alharbi@corp.example
+Reply-To: gulf.talent.hr@outlook.com
+Subject: Offer letter - respond within 48 hours
+Date: Fri, 23 Oct 2026 12:14:00 +0300
+Message-ID: <s02_job_offer_docx.025@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6246250907465560189=="
+
+--===============6246250907465560189==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations, please find your offer letter attached. Respond within 48 ho=
+urs.
+
+--===============6246250907465560189==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Offer_Letter.docx"
+MIME-Version: 1.0
+
+UEsDBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAA==
+
+--===============6246250907465560189==--

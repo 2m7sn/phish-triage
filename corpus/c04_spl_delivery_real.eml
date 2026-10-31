@@ -1,0 +1,21 @@
+Return-Path: <notifications@spl.com.sa>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK033; Sat, 24 Oct 2026 12:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=spl.com.sa;
+ dkim=pass header.d=spl.com.sa; dmarc=pass header.from=spl.com.sa
+Received-SPF: Pass (mx1.corp.example: domain of notifications@spl.com.sa
+ designates 203.0.113.6 as permitted sender) client-ip=203.0.113.6;
+Received: from mail.spl.com.sa (mail.spl.com.sa [203.0.113.6]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB033 for <m.alharbi@corp.example>;
+ Sat, 24 Oct 2026 12:14:00 +0300
+From: SPL <notifications@spl.com.sa>
+To: m.alharbi@corp.example
+Subject: Your parcel SA2290113 is out for delivery
+Date: Sat, 24 Oct 2026 12:14:00 +0300
+Message-ID: <c04_spl_delivery_real.033@spl.com.sa>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Your parcel SA2290113 is out for delivery today. Track it in the SPL app.

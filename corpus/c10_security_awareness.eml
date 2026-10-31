@@ -1,0 +1,23 @@
+Return-Path: <security@corp.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK039; Sun, 25 Oct 2026 06:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=corp.example;
+ dkim=pass header.d=corp.example; dmarc=pass header.from=corp.example
+Received-SPF: Pass (mx1.corp.example: domain of security@corp.example
+ designates 192.0.2.25 as permitted sender) client-ip=192.0.2.25;
+Received: from smtp-out.corp.example (smtp-out.corp.example [192.0.2.25]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB039 for <m.alharbi@corp.example>;
+ Sun, 25 Oct 2026 06:14:00 +0300
+From: Corp Security <security@corp.example>
+To: m.alharbi@corp.example
+Subject: Phishing awareness: what the latest lures look like
+Date: Sun, 25 Oct 2026 06:14:00 +0300
+Message-ID: <c10_security_awareness.039@corp.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+This month's lures: 'verify your account', 'urgent' CEO requests for gift car=
+d codes, fake customs fee notices. Training module: https://security.corp.exa=
+mple/training

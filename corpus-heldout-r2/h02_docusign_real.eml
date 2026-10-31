@@ -1,0 +1,68 @@
+Return-Path: <dse_NA4@docusign.net>
+Received: from na4-eu.docusign.net (na4-eu.docusign.net [162.248.186.21]) by
+ mx1.corp.example (Postfix) with ESMTPS id R2; Fri, 30 Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=docusign.net;
+ dkim=pass header.d=docusign.net; dmarc=pass (p=reject)
+ header.from=docusign.net
+From: "Fahad Alharbi via DocuSign" <dse_NA4@docusign.net>
+To: m.alharbi@corp.example
+Subject: Please DocuSign: Master Services Agreement - Corp 2027.pdf
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID: <179339087614.19452.1677587515677949786@na4-eu.docusign.net>
+Reply-To: Fahad Alharbi <fahad@alharbilaw.example>
+X-DocuSign-Envelope-Id: 6f0e2c71-3b1d-4c2e-9f21-7b9a1d0c4e55
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5401928348615597400=="
+
+--===============5401928348615597400==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Fahad Alharbi sent you a document to review and sign.
+
+REVIEW DOCUMENT
+https://na4.docusign.net/Signing/EmailStart.aspx?a=3D6f0e2c71-3b1d-4c2e-9f21-=
+7b9a1d0c4e55&acct=3D3a1f2b7c-21d0-4e7a-b7a2-0f4d9c1e8a12&er=3D1c9d2e3f-4a5b-6=
+c7d-8e9f-0a1b2c3d4e5f
+
+Fahad Alharbi
+Alharbi Law Office
+fahad@alharbilaw.example
+
+Please sign by 6 Nov 2026.
+
+Do Not Share This Email
+This email contains a secure link to DocuSign. Please do not share this email=
+, link, or access code with others.
+
+About DocuSign
+Sign documents electronically in just minutes. It's safe, secure, and legally=
+ binding.
+
+Questions about the Document?
+If you need to modify the document or have questions about the details in the=
+ document, please reach out to the sender by emailing them directly.
+
+This message was sent to you by Fahad Alharbi who is using the DocuSign Elect=
+ronic Signature Service. If you would rather not receive email from this send=
+er you may contact the sender with your request.
+
+--===============5401928348615597400==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Helvetica"><table width=3D"600"><tr><td styl=
+e=3D"background:#1e1e1e;color:#fff;padding:20px">DocuSign</td></tr><tr><td st=
+yle=3D"padding:30px"><p>Fahad Alharbi sent you a document to review and sign.=
+</p><p><a href=3D"https://na4.docusign.net/Signing/EmailStart.aspx?a=3D6f0e2c=
+71-3b1d-4c2e-9f21-7b9a1d0c4e55&amp;acct=3D3a1f2b7c-21d0-4e7a-b7a2-0f4d9c1e8a1=
+2&amp;er=3D1c9d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f" style=3D"background:#ffbe00;=
+padding:12px 24px;color:#000">REVIEW DOCUMENT</a></p><p>Fahad Alharbi<br>Alha=
+rbi Law Office<br>fahad@alharbilaw.example</p><p>Please sign by 6 Nov 2026.</=
+p><p style=3D"font-size:11px;color:#666"><b>Do Not Share This Email</b><br>Th=
+is email contains a secure link to DocuSign. Please do not share this email, =
+link, or access code with others.</p></td></tr></table></body></html>
+
+--===============5401928348615597400==--

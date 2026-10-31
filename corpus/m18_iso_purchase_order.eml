@@ -1,0 +1,38 @@
+Return-Path: <po@corp-procurement.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK018; Thu, 22 Oct 2026 15:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail
+ smtp.mailfrom=corp-procurement.example; dkim=pass
+ header.d=corp-procurement.example; dmarc=none
+ header.from=corp-procurement.example
+Received-SPF: Fail (mx1.corp.example: domain of po@corp-procurement.example
+ does not designate 203.0.113.140 as permitted sender)
+ client-ip=203.0.113.140;
+Received: from mail.corp-procurement.example (mail.corp-procurement.example
+ [203.0.113.140]) by mx1.corp.example (Postfix) with ESMTP id 3AB018 for
+ <m.alharbi@corp.example>; Thu, 22 Oct 2026 15:14:00 +0300
+From: Procurement <po@corp-procurement.example>
+To: m.alharbi@corp.example
+Subject: URGENT: Purchase order PO-88213 approval
+Date: Thu, 22 Oct 2026 15:14:00 +0300
+Message-ID: <m18_iso_purchase_order.018@corp-procurement.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0279804024696960657=="
+
+--===============0279804024696960657==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Urgent: open the attached purchase order image and approve immediately.
+
+--===============0279804024696960657==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="PO_88213.iso"
+MIME-Version: 1.0
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAA==
+
+--===============0279804024696960657==--

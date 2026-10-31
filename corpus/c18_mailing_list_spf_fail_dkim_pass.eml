@@ -1,0 +1,23 @@
+Return-Path: <list-bounces@lists.infosec-ksa.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK047; Mon, 26 Oct 2026 06:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail
+ smtp.mailfrom=lists.infosec-ksa.example; dkim=pass
+ header.d=partner-lab.example; dmarc=pass header.from=partner-lab.example
+Received-SPF: Fail (mx1.corp.example: domain of
+ list-bounces@lists.infosec-ksa.example does not designate 203.0.113.18 as
+ permitted sender) client-ip=203.0.113.18;
+Received: from lists.infosec-ksa.example (lists.infosec-ksa.example
+ [203.0.113.18]) by mx1.corp.example (Postfix) with ESMTP id 3AB047 for
+ <m.alharbi@corp.example>; Mon, 26 Oct 2026 06:14:00 +0300
+From: Omar Hassan <omar.hassan@partner-lab.example>
+To: m.alharbi@corp.example
+Subject: [infosec-ksa] Slides from yesterday's talk
+Date: Mon, 26 Oct 2026 06:14:00 +0300
+Message-ID: <c18_mailing_list_spf_fail_dkim_pass.047@partner-lab.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Slides are up: https://partner-lab.example/talks/dmarc

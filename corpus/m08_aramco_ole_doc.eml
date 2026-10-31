@@ -1,0 +1,38 @@
+Return-Path: <payroll@aramco-portal.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK008; Wed, 21 Oct 2026 09:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=aramco-portal.example; dkim=pass
+ header.d=aramco-portal.example; dmarc=fail header.from=aramco-portal.example
+Received-SPF: Pass (mx1.corp.example: domain of payroll@aramco-portal.example
+ designates 203.0.113.77 as permitted sender) client-ip=203.0.113.77;
+Received: from mail.aramco-portal.example (mail.aramco-portal.example
+ [203.0.113.77]) by mx1.corp.example (Postfix) with ESMTP id 3AB008 for
+ <m.alharbi@corp.example>; Wed, 21 Oct 2026 09:14:00 +0300
+From: Aramco Payroll <payroll@aramco-portal.example>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2YLYs9mK2YXYqSDYp9mE2LHYp9iq2KggLSDYo9mD2KrZiNio2LE=?= 2026
+Date: Wed, 21 Oct 2026 09:14:00 +0300
+Message-ID: <m08_aramco_ole_doc.008@aramco-portal.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6330458302728687668=="
+
+--===============6330458302728687668==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2YXYsdmB2YIg2YLYs9mK2YXYqSDYsdin2KrYqNmDINmE2LTZh9ixINij2YPYqtmI2KjYsS4g2YrY
+sdis2Ykg2YHYqtitINin2YTZhdmE2YEg2YjYqtmB2LnZitmEINin2YTZhdit2KrZiNmJINmE2LnY
+sdi2INin2YTYqtmB2KfYtdmK2YQuCg==
+
+--===============6330458302728687668==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Payslip_Oct2026.doc"
+MIME-Version: 1.0
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAA==
+
+--===============6330458302728687668==--

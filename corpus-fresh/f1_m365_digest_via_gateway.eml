@@ -1,0 +1,44 @@
+Return-Path: <o365mc@microsoft.com>
+Received: from eu-gw-5.mimecast.example (eu-gw-5.mimecast.example
+ [198.51.100.20]) by mx1.corp.example (Postfix) with ESMTPS id ABC; Thu, 29
+ Oct 2026 10:00:00 +0300
+Received: from EUR05-DB8-obe.outbound.protection.outlook.com
+ (EUR05-DB8-obe.outbound.protection.outlook.com [40.107.22.100]) by
+ eu-gw-5.mimecast.example (Postfix) with ESMTPS id ABC; Thu, 29 Oct 2026
+ 10:00:00 +0300
+Authentication-Results: mx1.corp.example; spf=fail
+ smtp.mailfrom=microsoft.com; dkim=pass header.d=microsoft.com; dmarc=pass
+ (p=reject) header.from=microsoft.com; arc=pass
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=microsoft.com; dkim=pass header.d=microsoft.com; dmarc=pass
+From: Microsoft 365 Message center <o365mc@microsoft.com>
+To: admin@corp.example
+Subject: Weekly digest: Microsoft service updates
+Message-ID: <DB8PR0001@EUR05-DB8-obe.outbound.protection.outlook.com>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1228430798870428771=="
+
+--===============1228430798870428771==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Here is your weekly digest of Microsoft 365 message center posts.
+
+MC912345: Retirement of legacy auth in Exchange Online (act by Dec 1).
+
+View in admin center: https://admin.microsoft.com/#/MessageCenter
+Unsubscribe: https://admin.microsoft.com/#/MessageCenter/preferences
+
+--===============1228430798870428771==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Here is your weekly digest.</p><p><a href=3D"https://admin.mic=
+rosoft.com/#/MessageCenter">View in admin center</a></p><p><a href=3D"https:/=
+/admin.microsoft.com/#/MessageCenter/preferences">Unsubscribe</a></p><img src=
+=3D"https://admin.microsoft.com/track.gif?u=3Dabc"></body></html>
+
+--===============1228430798870428771==--

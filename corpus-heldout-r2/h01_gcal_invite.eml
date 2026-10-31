@@ -1,0 +1,70 @@
+Return-Path:
+ <3qWcDaAkLBzYtxvipxv.frlYfhu.vxkvnnpgt@calendar-server.bounces.google.com>
+Received: from mail-oi1-f197.google.com (mail-oi1-f197.google.com
+ [209.85.167.197]) by mx1.corp.example (Postfix) with ESMTPS id R2; Fri, 30
+ Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=calendar-server.bounces.google.com; dkim=pass
+ header.d=google.com; dmarc=pass (p=reject) header.from=google.com
+From: "Ahmed Alotaibi (Google Calendar)" <calendar-notification@google.com>
+To: m.alharbi@corp.example
+Subject: Invitation: Q4 vendor review @ Tue 3 Nov 2026 14:00 - 15:00 (AST)
+ (m.alharbi@corp.example)
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID: <179339087613.19452.5784856774678085722@mail-oi1-f197.google.com>
+Reply-To: ahmed.alotaibi@riyadh-consult.example
+Sender: Google Calendar <calendar-notification@google.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7203295317579599504=="
+
+--===============7203295317579599504==
+Content-Type: multipart/alternative;
+ boundary="===============5178430360249412126=="
+
+--===============5178430360249412126==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Q4 vendor review
+Tuesday 3 Nov 2026 14:00 - 15:00 Arabia Standard Time
+
+Join with Google Meet: https://meet.google.com/kqz-rwpd-xmc
+
+Organizer: ahmed.alotaibi@riyadh-consult.example
+
+View all your event details: https://calendar.google.com/calendar/event?actio=
+n=3DVIEW&eid=3Da2F6YXJiaQ&tok=3DMjIjYWhtZWQ
+
+Invitation from Google Calendar: https://calendar.google.com/calendar/
+You are receiving this email because you are an attendee.
+Forwarding this invitation could allow any recipient to send a response to th=
+e organizer.
+
+--===============5178430360249412126==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p><b>Q4 vendor review</b></p><p>Tuesday 3 Nov 2026 14:00 &ndash;=
+ 15:00 (AST)</p><p><a href=3D"https://meet.google.com/kqz-rwpd-xmc">Join with=
+ Google Meet</a></p><p><a href=3D"https://calendar.google.com/calendar/event?=
+action=3DVIEW&amp;eid=3Da2F6YXJiaQ&amp;tok=3DMjIjYWhtZWQ">View all your event=
+ details</a></p><p style=3D"color:#888;font-size:11px">Invitation from <a hre=
+f=3D"https://calendar.google.com/calendar/">Google Calendar</a></p></body></h=
+tml>
+
+--===============5178430360249412126==--
+
+--===============7203295317579599504==
+Content-Type: text/calendar
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invite.ics"
+MIME-Version: 1.0
+
+QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL0dvb2dsZSBJbmMvL0dvb2ds
+ZSBDYWxlbmRhciA3MC45MDU0Ly9FTg0KTUVUSE9EOlJFUVVFU1QNCkJFR0lOOlZFVkVOVA0KRFRT
+VEFSVDoyMDI2MTEwM1QxMTAwMDBaDQpEVEVORDoyMDI2MTEwM1QxMjAwMDBaDQpTVU1NQVJZOlE0
+IHZlbmRvciByZXZpZXcNCk9SR0FOSVpFUjptYWlsdG86YWhtZWQuYWxvdGFpYmlAcml5YWRoLWNv
+bnN1bHQuZXhhbXBsZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K
+
+--===============7203295317579599504==--

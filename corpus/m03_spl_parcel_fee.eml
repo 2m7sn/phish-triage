@@ -1,0 +1,46 @@
+Return-Path: <notice@spl-delivery.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK003; Tue, 20 Oct 2026 18:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=softfail
+ smtp.mailfrom=spl-delivery.example; dkim=pass header.d=spl-delivery.example;
+ dmarc=fail header.from=spl-delivery.example
+Received-SPF: Softfail (mx1.corp.example: domain of
+ notice@spl-delivery.example does not designate 198.51.100.7 as permitted
+ sender) client-ip=198.51.100.7;
+Received: from mail.spl-delivery.example (mail.spl-delivery.example
+ [198.51.100.7]) by mx1.corp.example (Postfix) with ESMTP id 3AB003 for
+ <m.alharbi@corp.example>; Tue, 20 Oct 2026 18:14:00 +0300
+From: SPL | =?utf-8?b?2KfZhNio2LHZitivINin2YTYs9i52YjYr9mK?=
+ <notice@spl-delivery.example>
+To: m.alharbi@corp.example
+Reply-To: support@parcel-help.example
+Subject: =?utf-8?b?2LTYrdmG2KrZgyDZgdmKINin2YbYqti42KfYsSDYs9iv2KfYryDYp9mE?=
+ =?utf-8?b?2LHYs9mI2YUg2KfZhNis2YXYsdmD2YrYqQ==?=
+Date: Tue, 20 Oct 2026 18:14:00 +0300
+Message-ID: <m03_spl_parcel_fee.003@spl-delivery.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4397250148487807673=="
+
+--===============4397250148487807673==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2LTYrdmG2KrZgyDYsdmC2YUgU0E0NDcxMDIzINmF2LnZhNmC2KkuINix2LPZiNmFINis2YXYsdmD
+2YrYqSDZhdiz2KrYrdmC2Kk6IDE1INix2YrYp9mELiDYp9iv2YHYuSDYp9mE2KLZhiDZhNiq2KzZ
+htioINil2LnYp9iv2Kkg2KfZhNi02K3ZhtipLgpodHRwczovL3NwbC5jb20uc2EudHJhY2stcGFy
+Y2VsLmV4YW1wbGUvcGF5Cg==
+
+--===============4397250148487807673==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+PHAgZGlyPXJ0bD7YtNit2YbYqtmDINix2YLZhSBTQTQ0NzEwMjMg2YXYudmE
+2YLYqS4g2LHYs9mI2YUg2KzZhdix2YPZitipINmF2LPYqtit2YLYqTogMTUg2LHZitin2YQuINin
+2K/Zgdi5INin2YTYotmGINmE2KrYrNmG2Kgg2KXYudin2K/YqSDYp9mE2LTYrdmG2KkuPC9wPjxw
+PjxhIGhyZWY9Imh0dHBzOi8vc3BsLmNvbS5zYS50cmFjay1wYXJjZWwuZXhhbXBsZS9wYXkiPnNw
+bC5jb20uc2E8L2E+PC9wPjwvYm9keT48L2h0bWw+Cg==
+
+--===============4397250148487807673==--

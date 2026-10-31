@@ -1,0 +1,24 @@
+Return-Path: <ebill@stc.com.sa>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK034; Sat, 24 Oct 2026 15:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=stc.com.sa;
+ dkim=pass header.d=stc.com.sa; dmarc=pass header.from=stc.com.sa
+Received-SPF: Pass (mx1.corp.example: domain of ebill@stc.com.sa designates
+ 203.0.113.7 as permitted sender) client-ip=203.0.113.7;
+Received: from mail.stc.com.sa (mail.stc.com.sa [203.0.113.7]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB034 for <m.alharbi@corp.example>;
+ Sat, 24 Oct 2026 15:14:00 +0300
+From: stc <ebill@stc.com.sa>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2YHYp9iq2YjYsdiq2YMg2YTYtNmH2LEg2KPZg9iq2YjYqNixINis2Kc=?=
+ =?utf-8?b?2YfYstip?=
+Date: Sat, 24 Oct 2026 15:14:00 +0300
+Message-ID: <c05_stc_bill_real.034@stc.com.sa>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+2YHYp9iq2YjYsdiq2YMg2YTYtNmH2LEg2KPZg9iq2YjYqNixINio2YLZitmF2KkgMjMwINix2YrY
+p9mEINis2KfZh9iy2KkuINmK2YXZg9mG2YMg2KfZhNin2LfZhNin2Lkg2YjYp9mE2LPYr9in2K8g
+2LnYqNixINiq2LfYqNmK2YIgbXlzdGMuCg==

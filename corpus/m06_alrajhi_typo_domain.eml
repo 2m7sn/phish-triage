@@ -1,0 +1,39 @@
+Return-Path: <security@alrajhlbank.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK006; Wed, 21 Oct 2026 03:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=alrajhlbank.example; dkim=pass header.d=alrajhlbank.example;
+ dmarc=pass header.from=alrajhlbank.example
+Received-SPF: Pass (mx1.corp.example: domain of security@alrajhlbank.example
+ designates 203.0.113.61 as permitted sender) client-ip=203.0.113.61;
+Received: from mail.alrajhlbank.example (mail.alrajhlbank.example
+ [203.0.113.61]) by mx1.corp.example (Postfix) with ESMTP id 3AB006 for
+ <m.alharbi@corp.example>; Wed, 21 Oct 2026 03:14:00 +0300
+From: AlRajhi Bank Security <security@alrajhlbank.example>
+To: m.alharbi@corp.example
+Subject: Action required: verify your account
+Date: Wed, 21 Oct 2026 03:14:00 +0300
+Message-ID: <m06_alrajhi_typo_domain.006@alrajhlbank.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7212984464543270523=="
+
+--===============7212984464543270523==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We noticed unusual activity. Please verify your account within 24 hours or yo=
+ur online banking will be blocked.
+https://alrajhlbank.example/verify
+
+--===============7212984464543270523==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>We noticed unusual activity. Please verify your account within=
+ 24 hours or your online banking will be blocked.</p><p><a href=3D"https://al=
+rajhlbank.example/verify">Verify now</a></p></body></html>
+
+--===============7212984464543270523==--

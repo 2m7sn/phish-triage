@@ -1,0 +1,24 @@
+Return-Path: <sara.alharbi@mail.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK051; Mon, 26 Oct 2026 18:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=fail smtp.mailfrom=mail.example;
+ dkim=none header.d=corp.example; dmarc=fail header.from=corp.example
+Received-SPF: Fail (mx1.corp.example: domain of sara.alharbi@mail.example does
+ not designate 198.51.100.20 as permitted sender) client-ip=198.51.100.20;
+Received: from mail-sor-f41.example (mail-sor-f41.example [198.51.100.20]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB051 for <m.alharbi@corp.example>;
+ Mon, 26 Oct 2026 18:14:00 +0300
+From: Corp Security <security@corp.example>
+To: m.alharbi@corp.example
+Subject: Fwd: Phishing awareness session Tuesday
+Date: Mon, 26 Oct 2026 18:14:00 +0300
+Message-ID: <c22_forwarded_by_user_auth_broken.051@corp.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Forwarding in case you missed it.
+
+---------- Forwarded message ---------
+Reminder: phishing awareness session Tuesday 10:00, room 2A.

@@ -1,0 +1,38 @@
+Return-Path: <helpdesk@c0rp.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK015; Thu, 22 Oct 2026 06:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=c0rp.example;
+ dkim=pass header.d=c0rp.example; dmarc=pass header.from=c0rp.example
+Received-SPF: Pass (mx1.corp.example: domain of helpdesk@c0rp.example
+ designates 203.0.113.120 as permitted sender) client-ip=203.0.113.120;
+Received: from mail.c0rp.example (mail.c0rp.example [203.0.113.120]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB015 for <m.alharbi@corp.example>;
+ Thu, 22 Oct 2026 06:14:00 +0300
+From: Corp IT Helpdesk <helpdesk@c0rp.example>
+To: m.alharbi@corp.example
+Subject: Your password expires in 24 hours
+Date: Thu, 22 Oct 2026 06:14:00 +0300
+Message-ID: <m15_corp_it_typo_sso.015@c0rp.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2840809834972332009=="
+
+--===============2840809834972332009==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your Corp password expires in 24 hours. Update your password now to avoid los=
+ing access.
+https://sso.c0rp.example/reset
+
+--===============2840809834972332009==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Your Corp password expires in 24 hours. Update your password n=
+ow to avoid losing access.</p><p><a href=3D"https://sso.c0rp.example/reset">s=
+so.corp.example</a></p></body></html>
+
+--===============2840809834972332009==--

@@ -1,0 +1,34 @@
+Content-Type: multipart/related;
+ boundary="===============7662199089485810746=="
+MIME-Version: 1.0
+Return-Path: <admin@hr-portal-notice.example>
+Received: from mail.hr-portal-notice.example (mail.hr-portal-notice.example
+ [198.51.100.200]) by mx1.corp.example (Postfix) with ESMTPS id ABC;
+ Thu, 29 Oct 2026 10:00:00 +0300
+Received-SPF: None (mx1.corp.example: domain of hr-portal-notice.example does
+ not designate permitted sender hosts) client-ip=198.51.100.200;
+From: IT Helpdesk <admin@hr-portal-notice.example>
+To: m.alharbi@corp.example
+Subject: Action required: MFA re-enrolment for m.alharbi
+Message-ID: <q1@hr-portal-notice.example>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+
+--===============7662199089485810746==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Dear m.alharbi,</p><p>Your authenticator enrolment expires in 24 hours. Scan the QR code below with your phone camera to re-enrol and keep access to Teams and Outlook.</p><img src="cid:qr1" width="180"><p>IT Helpdesk</p></body></html>
+--===============7662199089485810746==
+Content-Type: image/png
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-ID: <qr1>
+Content-Disposition: inline; filename="qr.png"
+
+iVBORw0KGgoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+--===============7662199089485810746==--

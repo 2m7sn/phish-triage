@@ -1,0 +1,44 @@
+Return-Path: <alrajhi.alerts@gmail.com>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK005; Wed, 21 Oct 2026 00:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=gmail.com;
+ dkim=pass header.d=gmail.com; dmarc=pass header.from=gmail.com
+Received-SPF: Pass (mx1.corp.example: domain of alrajhi.alerts@gmail.com
+ designates 198.51.100.20 as permitted sender) client-ip=198.51.100.20;
+Received: from mail-sor-f41.example (mail-sor-f41.example [198.51.100.20]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB005 for <m.alharbi@corp.example>;
+ Wed, 21 Oct 2026 00:14:00 +0300
+From: Al Rajhi Bank <alrajhi.alerts@gmail.com>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2KrZhtio2YrZhyDYo9mF2YbZijog2KrYrdmC2YIg2YXZhiDYrdiz2Kc=?=
+ =?utf-8?q?=D8=A8=D9=83?=
+Date: Wed, 21 Oct 2026 00:14:00 +0300
+Message-ID: <m05_alrajhi_freemail_otp.005@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7237727439032307740=="
+
+--===============7237727439032307740==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2LnZhdmK2YTZhtinINin2YTYudiy2YrYstiMINiq2YUg2LHYtdivINmF2K3Yp9mI2YTYqSDYr9iu
+2YjZhCDYutmK2LEg2YXYudiq2KfYr9ipLiDYqtit2YLZgiDZhdmGINit2LPYp9io2YMg2K7ZhNin
+2YQgMjQg2LPYp9i52Kkg2YjYpdmE2Kcg2LPZitiq2YUg2KXZitmC2KfZgSDYp9mE2KjYt9in2YLY
+qS4K2KPYr9iu2YQg2LHZhdiyINin2YTYqtit2YLZgiDZh9mG2Kc6IGh0dHBzOi8vYWxyYWpoaS1z
+ZWN1cmUuZXhhbXBsZS9vdHAK
+
+--===============7237727439032307740==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHk+PHAgZGlyPXJ0bD7YudmF2YrZhNmG2Kcg2KfZhNi52LLZitiy2Iwg2KrZhSDY
+sdi12K8g2YXYrdin2YjZhNipINiv2K7ZiNmEINi62YrYsSDZhdi52KrYp9iv2KkuINiq2K3ZgtmC
+INmF2YYg2K3Ys9in2KjZgyDYrtmE2KfZhCAyNCDYs9in2LnYqSDZiNil2YTYpyDYs9mK2KrZhSDY
+pdmK2YLYp9mBINin2YTYqNi32KfZgtipLjwvcD48cD48YSBocmVmPSJodHRwczovL2FscmFqaGkt
+c2VjdXJlLmV4YW1wbGUvb3RwIj5hbHJhamhpYmFuay5jb20uc2E8L2E+PC9wPjwvYm9keT48L2h0
+bWw+Cg==
+
+--===============7237727439032307740==--

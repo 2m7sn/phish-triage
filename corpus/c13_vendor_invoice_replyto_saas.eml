@@ -1,0 +1,37 @@
+Return-Path: <billing@noorprinting.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK042; Sun, 25 Oct 2026 15:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=noorprinting.example; dkim=pass header.d=noorprinting.example;
+ dmarc=pass header.from=noorprinting.example
+Received-SPF: Pass (mx1.corp.example: domain of billing@noorprinting.example
+ designates 203.0.113.13 as permitted sender) client-ip=203.0.113.13;
+Received: from mail.noorprinting.example (mail.noorprinting.example
+ [203.0.113.13]) by mx1.corp.example (Postfix) with ESMTP id 3AB042 for
+ <m.alharbi@corp.example>; Sun, 25 Oct 2026 15:14:00 +0300
+From: Noor Printing <billing@noorprinting.example>
+To: m.alharbi@corp.example
+Reply-To: inv+4471@invoices.acctsaas.example
+Subject: Invoice NP-4471 (pending payment)
+Date: Sun, 25 Oct 2026 15:14:00 +0300
+Message-ID: <c13_vendor_invoice_replyto_saas.042@noorprinting.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4166822141071418781=="
+
+--===============4166822141071418781==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Invoice NP-4471 for October printing is attached. Pending payment, due 15 Nov=
+ember.
+
+--===============4166822141071418781==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="NP-4471.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBkdW1teQolJUVPRgo=
+
+--===============4166822141071418781==--

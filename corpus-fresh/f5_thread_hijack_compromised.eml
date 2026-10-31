@@ -1,0 +1,50 @@
+Return-Path: <f.alotaibi@najd-trading.example>
+Received: from mail.najd-trading.example (mail.najd-trading.example
+ [198.51.100.140]) by mx1.corp.example (Postfix) with ESMTPS id ABC; Thu, 29
+ Oct 2026 10:00:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=najd-trading.example; dkim=pass header.d=najd-trading.example;
+ dmarc=pass header.from=najd-trading.example
+From: Fahad Alotaibi <f.alotaibi@najd-trading.example>
+To: m.alharbi@corp.example
+In-Reply-To: <orig-123@corp.example>
+References: <orig-123@corp.example>
+Subject: RE: RE: PO 4471 delivery schedule
+Message-ID: <x1@mail.najd-trading.example>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7112782268240023661=="
+
+--===============7112782268240023661==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Mohsen,
+
+Sorry for the back and forth. I have put the updated schedule and the revised=
+ quote in our shared folder, please check and confirm:
+
+https://docs-view.cloudstorage-link.example/s/9f2a1c
+
+Thanks,
+Fahad
+
+> On 28 Oct 2026, m.alharbi@corp.example wrote:
+> Fahad, can you send the updated delivery schedule for PO 4471?
+>> On 27 Oct 2026, Fahad Alotaibi wrote:
+>> Yes, items 1-4 ship on the 2nd.
+
+--===============7112782268240023661==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Hi Mohsen,</p><p>Sorry for the back and forth. I have put the =
+updated schedule and the revised quote in our shared folder, please check and=
+ confirm:</p><p><a href=3D"https://docs-view.cloudstorage-link.example/s/9f2a=
+1c">Open shared folder</a></p><p>Thanks,<br>Fahad</p><blockquote>On 28 Oct 20=
+26, m.alharbi@corp.example wrote:<br>Fahad, can you send the updated delivery=
+ schedule for PO 4471?</blockquote></body></html>
+
+--===============7112782268240023661==--

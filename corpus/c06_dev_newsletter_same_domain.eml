@@ -1,0 +1,40 @@
+Return-Path: <bounces@bounces.devweekly.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK035; Sat, 24 Oct 2026 18:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=bounces.devweekly.example; dkim=pass
+ header.d=devweekly.example; dmarc=pass header.from=devweekly.example
+Received-SPF: Pass (mx1.corp.example: domain of
+ bounces@bounces.devweekly.example designates 203.0.113.8 as permitted sender)
+ client-ip=203.0.113.8;
+Received: from mail.devweekly.example (mail.devweekly.example [203.0.113.8])
+ by mx1.corp.example (Postfix) with ESMTP id 3AB035 for
+ <m.alharbi@corp.example>; Sat, 24 Oct 2026 18:14:00 +0300
+From: Dev Weekly <news@devweekly.example>
+To: m.alharbi@corp.example
+Subject: Dev Weekly #412
+Date: Sat, 24 Oct 2026 18:14:00 +0300
+Message-ID: <c06_dev_newsletter_same_domain.035@devweekly.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1494094467791675181=="
+
+--===============1494094467791675181==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This week: Python 3.14 beta notes, a new SQLite release, and a talk on observ=
+ability.
+https://devweekly.example/412
+
+--===============1494094467791675181==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>This week: Python 3.14 beta notes, a new SQLite release, and a=
+ talk on observability.</p><p><a href=3D"https://devweekly.example/412">Read =
+issue 412</a></p></body></html>
+
+--===============1494094467791675181==--

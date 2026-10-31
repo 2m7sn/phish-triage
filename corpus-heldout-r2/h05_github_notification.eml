@@ -1,0 +1,53 @@
+Return-Path: <noreply@github.com>
+Received: from out-21.smtp.github.com (out-21.smtp.github.com
+ [192.30.252.204]) by mx1.corp.example (Postfix) with ESMTPS id R2; Fri, 30
+ Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=github.com;
+ dkim=pass header.d=github.com; dmarc=pass (p=reject) header.from=github.com
+From: "Rakan Alghamdi" <notifications@github.com>
+To: corp-platform/infra <infra@noreply.github.com>
+Subject: Re: [corp-platform/infra] Rotate TLS certs for mx1 (PR #412)
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID: <179339087615.19452.10902651544913291882@out-21.smtp.github.com>
+Reply-To: corp-platform/infra <reply+ABCDEFG123456@reply.github.com>
+Cc: Mohsen Alharbi <m.alharbi@corp.example>
+In-Reply-To: <corp-platform/infra/pull/412@github.com>
+References: <corp-platform/infra/pull/412@github.com>
+List-Id: corp-platform/infra <infra.corp-platform.github.com>
+List-Archive: https://github.com/corp-platform/infra
+List-Unsubscribe: <mailto:unsub+ABCDEFG123456@reply.github.com>,
+ <https://github.com/notifications/unsubscribe-auth/ABCDEFG123456>
+X-GitHub-Reason: mention
+Precedence: list
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2274128838831586870=="
+
+--===============2274128838831586870==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+@m-alharbi approved this pull request.
+
+LGTM, merging after the pipeline goes green.
+
+-- 
+Reply to this email directly or view it on GitHub:
+https://github.com/corp-platform/infra/pull/412#pullrequestreview-2298811
+You are receiving this because you were mentioned.
+
+Message ID: <corp-platform/infra/pull/412/review/2298811@github.com>
+
+--===============2274128838831586870==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p><b>@m-alharbi</b> approved this pull request.</p><p>LGTM, merging after th=
+e pipeline goes green.</p><p style=3D"font-size:small;color:#666">&mdash;<br>=
+Reply to this email directly, <a href=3D"https://github.com/corp-platform/inf=
+ra/pull/412#pullrequestreview-2298811">view it on GitHub</a>, or <a href=3D"h=
+ttps://github.com/notifications/unsubscribe-auth/ABCDEFG123456">unsubscribe</=
+a>.<br>You are receiving this because you were mentioned.</p>
+
+--===============2274128838831586870==--

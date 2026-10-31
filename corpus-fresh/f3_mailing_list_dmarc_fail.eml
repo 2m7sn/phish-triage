@@ -1,0 +1,25 @@
+Return-Path: <python-sa-bounces@lists.pysaudi.example>
+Received: from lists.pysaudi.example (lists.pysaudi.example [198.51.100.90])
+ by mx1.corp.example (Postfix) with ESMTPS id ABC; Thu, 29 Oct 2026 10:00:00
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=lists.pysaudi.example; dkim=fail (body hash did not verify)
+ header.d=kaust.edu.sa; dmarc=fail (p=none dis=none) header.from=kaust.edu.sa
+From: Sara Alqahtani <sara.alqahtani@kaust.edu.sa>
+To: python-sa@lists.pysaudi.example
+Reply-To: python-sa@lists.pysaudi.example
+List-Id: <python-sa.lists.pysaudi.example>
+Subject: [python-sa] Meetup slides + next date
+Message-ID: <CA+xyz@mail.kaust.edu.sa>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Slides from Tuesday are at https://github.com/pysaudi/meetups/tree/main/2026-=
+10
+Next meetup Nov 18.
+
+_______________________________________________
+python-sa mailing list
+https://lists.pysaudi.example/mailman/listinfo/python-sa

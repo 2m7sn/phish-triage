@@ -1,0 +1,64 @@
+Return-Path: <no-reply@absher.sa>
+Received: from smsrelay3.absher.sa (smsrelay3.absher.sa [212.26.60.41]) by
+ mx1.corp.example (Postfix) with ESMTPS id R2; Fri, 30 Oct 2026 09:12:00 +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=absher.sa;
+ dkim=pass header.d=absher.sa; dmarc=pass (p=reject) header.from=absher.sa
+From: "Absher" <no-reply@absher.sa>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2LHZhdiyINin2YTYqtit2YLZgiAtINij2KjYtNix?=
+Date: Fri, 30 Oct 2026 09:12:00 +0300
+Message-ID: <179339087614.19452.1915768821720061281@smsrelay3.absher.sa>
+X-SMS-Gateway: moi-sms-relay-03
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6483648628909797534=="
+
+--===============6483648628909797534==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2LnYstmK2LLZiiDYp9mE2YXYs9iq2YHZitiv2IwK2LHZhdiyINin2YTYqtit2YLZgiDYp9mE2K7Y
+p9i1INio2YMg2YTYqtiz2KzZitmEINin2YTYr9iu2YjZhCDYpdmE2Ykg2KPYqNi02LEg2YfZiDog
+NDgyOTEzCtin2YTYsdmF2LIg2LXYp9mE2K0g2YTZhdiv2KkgNSDYr9mC2KfYptmCLiDZhNinINiq
+2LTYp9ix2YMg2YfYsNinINin2YTYsdmF2LIg2YXYuSDYo9mKINi02K7YtdiMINmI2YTZhiDZiti3
+2YTYqNmHINmF2YbZgyDYo9mKINmF2YjYuNmBLgoK2KXYsNinINmE2YUg2KrZgtmFINio2YfYsNmH
+INin2YTZhdit2KfZiNmE2Kkg2YrYsdis2Ykg2KrYrNin2YfZhCDZh9iw2Ycg2KfZhNix2LPYp9mE
+2KkuCgrZiNiy2KfYsdipINin2YTYr9in2K7ZhNmK2KkgLSDYo9io2LTYsQrZh9iw2Ycg2LHYs9in
+2YTYqSDYotmE2YrYqdiMINin2YTYsdis2KfYoSDYudiv2YUg2KfZhNix2K8g2LnZhNmK2YfYpy4K
+
+--===============6483648628909797534==
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="===============6538851895866779702=="
+
+--===============6538851895866779702==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWwgZGlyPSJydGwiPjxib2R5IHN0eWxlPSJmb250LWZhbWlseTpUYWhvbWEiPjxpbWcgc3Jj
+PSJjaWQ6bG9nb0ByMiIgd2lkdGg9IjEyMCIgYWx0PSLYo9io2LTYsSI+PHA+2LnYstmK2LLZiiDY
+p9mE2YXYs9iq2YHZitiv2Iw8L3A+PHA+2LHZhdiyINin2YTYqtit2YLZgiDYp9mE2K7Yp9i1INio
+2YMg2YTYqtiz2KzZitmEINin2YTYr9iu2YjZhCDYpdmE2Ykg2KPYqNi02LEg2YfZiDogPGIgc3R5
+bGU9ImZvbnQtc2l6ZToyMHB4Ij40ODI5MTM8L2I+PC9wPjxwPtin2YTYsdmF2LIg2LXYp9mE2K0g
+2YTZhdiv2KkgNSDYr9mC2KfYptmCLiDZhNinINiq2LTYp9ix2YMg2YfYsNinINin2YTYsdmF2LIg
+2YXYuSDYo9mKINi02K7YtdiMINmI2YTZhiDZiti32YTYqNmHINmF2YbZgyDYo9mKINmF2YjYuNmB
+LjwvcD48cD7Ypdiw2Kcg2YTZhSDYqtmC2YUg2KjZh9iw2Ycg2KfZhNmF2K3Yp9mI2YTYqSDZitix
+2KzZiSDYqtis2KfZh9mEINmH2LDZhyDYp9mE2LHYs9in2YTYqS48L3A+PHA+2YjYstin2LHYqSDY
+p9mE2K/Yp9iu2YTZitipIC0g2KPYqNi02LE8YnI+2YfYsNmHINix2LPYp9mE2Kkg2KLZhNmK2KnY
+jCDYp9mE2LHYrNin2KEg2LnYr9mFINin2YTYsdivINi52YTZitmH2KcuPC9wPjwvYm9keT48L2h0
+bWw+Cg==
+
+--===============6538851895866779702==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-ID: <logo@r2>
+MIME-Version: 1.0
+Content-Disposition: inline
+
+iVBORw0KGgoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAA
+
+--===============6538851895866779702==--
+
+--===============6483648628909797534==--

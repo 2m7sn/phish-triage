@@ -1,0 +1,34 @@
+Return-Path: <sara.almutairi@corp.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK045; Mon, 26 Oct 2026 00:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass smtp.mailfrom=corp.example;
+ dkim=pass header.d=corp.example; dmarc=pass header.from=corp.example
+Received-SPF: Pass (mx1.corp.example: domain of sara.almutairi@corp.example
+ designates 192.0.2.25 as permitted sender) client-ip=192.0.2.25;
+Received: from smtp-out.corp.example (smtp-out.corp.example [192.0.2.25]) by
+ mx1.corp.example (Postfix) with ESMTP id 3AB045 for <m.alharbi@corp.example>;
+ Mon, 26 Oct 2026 00:14:00 +0300
+From: Sara Al-Mutairi <sara.almutairi@corp.example>
+To: m.alharbi@corp.example
+Subject: Invitation: SOC weekly sync
+Date: Mon, 26 Oct 2026 00:14:00 +0300
+Message-ID: <c16_calendar_invite.045@corp.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5604135446565158558=="
+
+--===============5604135446565158558==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+SOC weekly sync, Tuesday 11:00, room 3B.
+
+--===============5604135446565158558==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invite.ics"
+MIME-Version: 1.0
+
+QkVHSU46VkNBTEVOREFSClZFUlNJT046Mi4wCkVORDpWQ0FMRU5EQVIK
+
+--===============5604135446565158558==--

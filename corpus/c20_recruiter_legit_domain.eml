@@ -1,0 +1,35 @@
+Return-Path: <lama.khan@talentbridge.example>
+Received: from mx1.corp.example (mx1.corp.example [192.0.2.10]) by
+ mail.corp.example (Postfix) with ESMTPS id 4XK049; Mon, 26 Oct 2026 12:14:02
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=talentbridge.example; dkim=pass header.d=talentbridge.example;
+ dmarc=none header.from=talentbridge.example
+Received-SPF: Pass (mx1.corp.example: domain of lama.khan@talentbridge.example
+ designates 203.0.113.20 as permitted sender) client-ip=203.0.113.20;
+Received: from mail.talentbridge.example (mail.talentbridge.example
+ [203.0.113.20]) by mx1.corp.example (Postfix) with ESMTP id 3AB049 for
+ <m.alharbi@corp.example>; Mon, 26 Oct 2026 12:14:00 +0300
+From: Lama Khan <lama.khan@talentbridge.example>
+To: m.alharbi@corp.example
+Subject: Interview slot - SOC analyst intern
+Date: Mon, 26 Oct 2026 12:14:00 +0300
+Message-ID: <c20_recruiter_legit_domain.049@talentbridge.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3051911855862834338=="
+
+--===============3051911855862834338==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Mohsen, can you confirm a slot within 48 hours? Job description attached.
+
+--===============3051911855862834338==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="JD_SOC_Intern.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKJSBkdW1teQolJUVPRgo=
+
+--===============3051911855862834338==--

@@ -1,0 +1,37 @@
+Return-Path: <no-reply@absher.com.sa.co>
+Received: from mail.absher.com.sa.co (mail.absher.com.sa.co [198.51.100.220])
+ by mx1.corp.example (Postfix) with ESMTPS id ABC; Thu, 29 Oct 2026 10:00:00
+ +0300
+Authentication-Results: mx1.corp.example; spf=pass
+ smtp.mailfrom=absher.com.sa.co; dkim=pass header.d=absher.com.sa.co;
+ dmarc=pass header.from=absher.com.sa.co
+From: Absher <no-reply@absher.com.sa.co>
+To: m.alharbi@corp.example
+Subject: =?utf-8?b?2KXYtNi52KfYsSDZhdiu2KfZhNmB2Kkg2YXYsdmI2LHZitip?=
+Message-ID: <a1@absher.com.sa.co>
+Date: Thu, 29 Oct 2026 10:00:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2814925654320457379=="
+
+--===============2814925654320457379==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+2YTYr9mK2YMg2YXYrtin2YTZgdipINmF2LHZiNix2YrYqSDYutmK2LEg2YXYs9iv2K/YqSDYqNmC
+2YrZhdipIDE1MCDYsdmK2KfZhC4g2YrYsdis2Ykg2KfZhNiz2K/Yp9ivINiu2YTYp9mEIDQ4INiz
+2KfYudipINmE2KrYrNmG2Kgg2YXYttin2LnZgdipINin2YTZhdiu2KfZhNmB2KkuCmh0dHBzOi8v
+YWJzaGVyLmNvbS5zYS5jby9maW5lcy9wYXkK
+
+--===============2814925654320457379==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PGh0bWwgZGlyPSJydGwiPjxib2R5PjxwPtmE2K/ZitmDINmF2K7Yp9mE2YHYqSDZhdix2YjYsdmK
+2Kkg2LrZitixINmF2LPYr9iv2Kkg2KjZgtmK2YXYqSAxNTAg2LHZitin2YQuINmK2LHYrNmJINin
+2YTYs9iv2KfYryDYrtmE2KfZhCA0OCDYs9in2LnYqSDZhNiq2KzZhtioINmF2LbYp9i52YHYqSDY
+p9mE2YXYrtin2YTZgdipLjwvcD48cD48YSBocmVmPSJodHRwczovL2Fic2hlci5jb20uc2EuY28v
+ZmluZXMvcGF5Ij5hYnNoZXIuc2E8L2E+PC9wPjwvYm9keT48L2h0bWw+Cg==
+
+--===============2814925654320457379==--

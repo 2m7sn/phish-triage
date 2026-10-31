@@ -1,0 +1,9 @@
+file,label
+f1_m365_digest_via_gateway.eml,clean
+f2_newsletter_sendgrid.eml,clean
+f3_mailing_list_dmarc_fail.eml,clean
+f4_gov_notice_ar.eml,clean
+f5_thread_hijack_compromised.eml,malicious
+f6_qr_lure_no_links.eml,malicious
+f7_html_att_js_redirect.eml,malicious
+f8_absher_tld_lookalike.eml,malicious
